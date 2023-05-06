@@ -29,7 +29,7 @@ Eu sou um Engenheiro de Software e atualmente trabalho no [Mercado Livre](https:
 
 ##
 
-![Snake animation](https://github.com/FragaInDev/FragaInDev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kleitonutida/kleitonutida/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kleitonutida&&style=flat-square" align="center" />
