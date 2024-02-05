@@ -29,8 +29,6 @@ I am a Software Engineer and currently working at [Mercado Livre](https://www.me
 
 ##
 
-![Snake animation](https://github.com/kleitonutida/kleitonutida/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kleitonutida&&style=flat-square" align="center" />
 </div>
